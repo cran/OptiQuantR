@@ -1,0 +1,8 @@
+175675777db1b46c3f95c3693c8e7cfb *DESCRIPTION
+9482c6daad12451c0d81f2f50f8515b3 *NAMESPACE
+c91db0fff5fa5359cee6559cfbc4d017 *R/readoqcsv.R
+1fad70cc79f92fbae181b8a95e9c0b2b *README.md
+b733244f442661390ce3465dcbd7ddd8 *inst/extdata/testdata.csv
+bf304a5877792ca4751e41567aac9e31 *man/readoqcsv.Rd
+bd553277bde21a37728bce25f2611f5c *tests/testthat.R
+00b4a0b675e12bd66038bca05551e674 *tests/testthat/test_tableproperties.R
